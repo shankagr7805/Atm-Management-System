@@ -34,4 +34,4 @@ The ATM Management System is a Java-based application that simulates the functio
 
 ## Screenshots 
   ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](Login.png)
